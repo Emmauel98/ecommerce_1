@@ -1,3 +1,3 @@
-# ecommerce_1esign
+# ecommerce_1design
 - html 
 - css 
